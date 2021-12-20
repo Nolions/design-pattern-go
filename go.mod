@@ -1,4 +1,4 @@
-module one-design-patterns-day-for-golang
+module github.com/Nolions/one-design-patterns-day-for-golang
 
 go 1.16
 
